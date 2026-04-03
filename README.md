@@ -11,7 +11,8 @@
 ![HTML](https://img.shields.io/badge/HTML-FF0000?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-purple?logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?logo=JavaScript)
-![MySQL](https://img.shields.io/badge/MySQL-003247.svg?&logo=mysql&logoColor=FFA500) <br>
+![MySQL](https://img.shields.io/badge/MySQL-003247.svg?&logo=mysql&logoColor=FFA500) 
+![MySQL](https://img.shields.io/badge/Assembleur-white?logo=ARM)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=clementbedour&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--# 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=clementbedour&theme=github_dark&hide_border=false)<br/>
